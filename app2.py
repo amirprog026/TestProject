@@ -1,5 +1,6 @@
 import threading
 import time
+print("test")
 def myloop(rangenum:int):
     for i in range(rangenum):
         print(i)
